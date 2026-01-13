@@ -1,10 +1,10 @@
-# kingwoods-news-project
+# News-Website-project
 AI-assisted news website project
-# Kingwoods News – AI-Assisted Web Project
+AI-Assisted Web Project
 
 This repository represents my self-learning journey into software systems.
 
-I independently designed and managed a live news website (https://kingwoodsnews.com)
+I independently designed and managed a live news website (🔗https://kingwoodsnews.com,🔗https://cinirocket.com/,🔗 https://seithipunal.com /)
 using AI tools like ChatGPT to understand structure, logic, and workflows.
 
 ## What I learned
